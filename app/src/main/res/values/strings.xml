@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Job_App</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="hyperlink">More<a href="https://erratic-beam-b4c.notion.site/UITM-ResCom-496a1d8a6d394034b80eb2ac24c0b47f"> about us at</a></string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
